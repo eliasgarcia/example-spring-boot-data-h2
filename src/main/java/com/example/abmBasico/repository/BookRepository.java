@@ -11,4 +11,5 @@ public interface BookRepository extends CrudRepository<Book, Long>{
 	Book findByName(String name);// nuevoBranch modif 2, mergeado
 	//me agregaron en el branch develop
 	//me agregaron en master
+	//un push a develop
 }
