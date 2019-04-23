@@ -10,4 +10,5 @@ import com.example.abmBasico.domain.Book;
 public interface BookRepository extends CrudRepository<Book, Long>{
 	Book findByName(String name);// nuevoBranch modif 2, mergeado
 	//sigo en master
+	//otro cambio en master
 }
