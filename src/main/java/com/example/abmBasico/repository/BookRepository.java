@@ -12,4 +12,6 @@ public interface BookRepository extends CrudRepository<Book, Long>{
 	//me agregaron en el branch develop
 	//me agregaron en master
 	//un push a develop
+	//sigo en master
+	//hice el merge desde develop haciendo pull en origin master
 }
